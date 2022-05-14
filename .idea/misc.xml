@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable-v24/circle.xml" value="0.271" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable-v24/circle_no_bg.xml" value="0.1185" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/card.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/card_2.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/edit_text_round_bg_outline.xml" value="0.166" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/home.xml" value="0.271" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/ic_chevron_left.xml" value="0.267" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/ic_menu.xml" value="0.271" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/ic_new_year_2022_vdemia.xml" value="0.1325" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.271" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/ic_user.xml" value="0.1125" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/user_card.xml" value="0.16" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/user_card_large.xml" value="0.276" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/drawable/view_comfy.xml" value="0.2435" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_add_item.xml" value="0.2" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_admin_order.xml" value="0.22708333333333333" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_admin_orders.xml" value="0.22708333333333333" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_admin_user.xml" value="0.1" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_admin_users.xml" value="0.2526041666666667" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_category.xml" value="0.246875" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_category_results.xml" value="0.246875" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_check_out.xml" value="0.2" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_notification.xml" value="0.25" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_product.xml" value="0.2" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_search_results.xml" value="0.2375" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/appbar.xml" value="0.12135416666666667" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/content_navigation.xml" value="0.16" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/ic_menu.xml" value="0.2734375" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/item_customer.xml" value="0.2311787072243346" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/item_order.xml" value="0.18" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/product_items.xml" value="0.2947867298578199" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/product_items_1.xml" value="0.2" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/layout/toolbar.xml" value="0.27239583333333334" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/menu/main_menu.xml" value="0.2198581560283688" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/menu/navigation.xml" value="0.13177083333333334" />
+        <entry key="..\:/androiddevelopment/OnlineStore/app/src/main/res/menu/navigation_menu.xml" value="0.13177083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

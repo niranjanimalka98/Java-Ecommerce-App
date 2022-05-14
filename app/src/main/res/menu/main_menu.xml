@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_create_acc"
+        android:orderInCategory="100"
+        android:title="Create Account"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_login"
+        android:orderInCategory="100"
+        android:title="Login"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/ic_shopping_cart"
+        android:orderInCategory="100"
+        android:title="Cart"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_add_product"
+        android:orderInCategory="100"
+        android:title="Add New Product"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_products"
+        android:orderInCategory="100"
+        android:title="Products"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_orders"
+        android:orderInCategory="100"
+        android:title="Orders"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_customers"
+        android:orderInCategory="100"
+        android:title="Customers"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_notification"
+        android:orderInCategory="100"
+        android:title="Send Notification"
+        app:showAsAction="never" />
+
+</menu>
